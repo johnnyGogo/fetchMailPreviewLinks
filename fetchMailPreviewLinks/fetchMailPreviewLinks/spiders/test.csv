@@ -1,0 +1,35 @@
+link,link_text,mail_name
+https://termly.io/blog/universal-privacy-policy/,our new and improved Universal Privacy Policy.,automatic_universal_pp_migration
+https://termly.io/blog/general-data-protection-regulation-gdpr-compliance-guide/,The General Data Protection Regulation,automatic_universal_pp_migration
+http://localhost:3000/dashboard,My Dashboard,automatic_universal_pp_migration
+https://termly.io/blog/general-data-protection-regulation-gdpr-compliance-guide/,The General Data Protection Regulation,universal_pp
+http://localhost:3000/dashboard,dashboard,universal_pp
+http://localhost:3000/dashboard/settings/billing,Update My Billing Info,subscription_expired
+http://localhost:3000/dashboard/settings/plan-info,here,over_consent_quota_warning
+http://localhost:3000/user/pricing,Upgrade Your Plan Now,over_consent_quota_warning
+http://localhost:3000/dashboard/settings/billing,update my billing info,notify_failed_payment
+http://localhost:3000/user/pricing,Upgrade My Plan Now,over_consent_quota
+http://localhost:3000/dashboard,clicking here,document_published_premium_user
+http://localhost:3000/document/cookie-policy/3d80e55b-ff63-4c2a-a5ca-f3ba6317772c,http://localhost:3000/document/cookie-policy/3d80e55b-ff63-4c2a-a5ca-f3ba6317772c,document_published_premium_user
+http://localhost:3000/dashboard/receipts/in_1ANZJrASXOmDRWnWAwX7fqqV,View Full Receipt,invoice
+http://localhost:3000/dashboard,clicking here,document_published_basic_user
+http://localhost:3000/document/terms-of-use/bb57d0db-83f3-4cce-865b-77e6f297e21f,http://localhost:3000/document/terms-of-use/bb57d0db-83f3-4cce-865b-77e6f297e21f,document_published_basic_user
+http://localhost:3000/dashboard/website/1/cookie-report,View My Cookie Report,cookie_period_scan
+http://localhost:3000/dashboard/website/1/cookie-report,View My Cookie Report,cookie_report_results
+http://localhost:3000/dashboard,Begin Cookie Scan,cookie_consent_feature_for_paid_user
+https://termly.io/resources/articles/introducing-cookie-consent-manager/,cookie consent manager guide,cookie_consent_feature_for_paid_user
+http://localhost:3000/dashboard,Start My FREE Cookie Scan,cookie_consent_feature_for_free_user
+https://termly.io/resources/articles/introducing-cookie-consent-manager/,our cookie consent manager guide,cookie_consent_feature_for_free_user
+http://localhost:3000/user/pricing?utm_campaign=configure_consent_banner,Upgrade My Account Now,consent_banner_marketing_notice
+https://termly.io/blog/universal-privacy-policy/,our new Universal Privacy Policy,automatic_universal_pp_migration_reminder
+https://termly.io/blog/general-data-protection-regulation-gdpr-compliance-guide/,General Data Protection Regulation’s (GDPR) requirements,automatic_universal_pp_migration_reminder
+http://localhost:3000/dashboard,dashboard,automatic_universal_pp_migration_reminder
+http://localhost:3000/user/products?utm_campaign=CartAbandonment_1hr_tc,Upgrade and Publish My Terms of Use,cart_abandonment_tc
+https://termly.io/blog/general-data-protection-regulation-gdpr-compliance-guide/,the General Data Protection Regulation (GDPR),cart_abandonment_pp
+http://localhost:3000/user/products?utm_campaign=CartAbandonment_1hr_pp,Upgrade and Publish My Privacy Policy,cart_abandonment_pp
+https://developers.google.com/maps/terms,Google Maps API Terms of Service,update_pp_template
+https://www.google.com/policies/terms/,Google's Terms of Service.,update_pp_template
+https://www.google.com/policies/privacy/,Google Privacy Policy.,update_pp_template
+http://www.google.com/about/company/user-consent-policy.html,EU User Consent Policy.,update_pp_template
+https://termly.io/cookie-policy/cookie-policy-generator/,Cookie Policy,update_pp_template
+http://localhost:3000/dashboard?utm_campaign=signup_welcome_mail,Termly Dashboard,registration
